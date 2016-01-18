@@ -14,10 +14,6 @@
       "tmp"
       "vendor"
     ]
-    themes: [
-      "unity-ui"
-      "glacier-syntax"
-    ]
     hideGitIgnoredFiles: true
     disabledPackages: [
       "background-tips"
@@ -35,3 +31,4 @@
   "release-notes":
     viewedVersion: "0.89.0"
   "atom-terminal": {}
+  minimap: {}
