@@ -1,11 +1,14 @@
 "*":
-  editor:
-    showIndentGuide: true
-    fontFamily: "Menlo"
-    invisibles: {}
-    fontSize: 15
-    softWrapAtPreferredLineLength: true
+  "MavensMate-Atom": {}
+  "atom-terminal": {}
   core:
+    disabledPackages: [
+      "background-tips"
+      "exception-reporting"
+      "metrics"
+    ]
+    followSymlinks: false
+    hideGitIgnoredFiles: true
     ignoredNames: [
       ".bundle"
       ".git"
@@ -14,13 +17,16 @@
       "tmp"
       "vendor"
     ]
-    hideGitIgnoredFiles: true
-    disabledPackages: [
-      "background-tips"
-      "exception-reporting"
-      "metrics"
-    ]
-    followSymlinks: false
+    projectHome: "/Users/pierre/Code"
+  editor:
+    fontFamily: "Menlo"
+    fontSize: 15
+    invisibles: {}
+    showIndentGuide: true
+    softWrapAtPreferredLineLength: true
+  minimap: {}
+  "release-notes":
+    viewedVersion: "0.89.0"
   "spell-check":
     grammars: [
       "text.plain"
@@ -29,7 +35,3 @@
     ]
   welcome:
     showOnStartup: false
-  "release-notes":
-    viewedVersion: "0.89.0"
-  "atom-terminal": {}
-  minimap: {}
