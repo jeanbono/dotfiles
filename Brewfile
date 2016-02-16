@@ -18,6 +18,7 @@ brew 'pyenv'
 brew 'nvm'
 brew 'wget'
 brew 'heroku'
+brew 'google-drive'
 
 cask 'intellij-idea'
 cask 'atom'
