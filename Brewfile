@@ -17,6 +17,7 @@ brew 'python-build'
 brew 'pyenv'
 brew 'nvm'
 brew 'wget'
+brew 'heroku'
 
 cask 'intellij-idea'
 cask 'atom'
