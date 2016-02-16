@@ -14,6 +14,7 @@ brew 'ruby-build'
 brew 'rbenv'
 brew 'python-build'
 brew 'pyenv'
+brew 'nvm'
 brew 'wget'
 
 cask 'intellij-idea'
