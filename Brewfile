@@ -18,6 +18,7 @@ brew 'pyenv'
 brew 'nvm'
 brew 'wget'
 brew 'heroku'
+brew 'watchman'
 
 cask 'intellij-idea'
 cask 'atom'
