@@ -19,6 +19,7 @@ brew 'nvm'
 brew 'wget'
 brew 'heroku'
 brew 'watchman'
+brew 'postgresql'
 
 cask 'intellij-idea'
 cask 'atom'
