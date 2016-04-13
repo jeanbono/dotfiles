@@ -21,7 +21,7 @@ brew 'heroku'
 brew 'watchman'
 brew 'postgresql'
 
-cask 'intellij-idea'
+cask 'rubymine'
 cask 'atom'
 cask 'google-chrome'
 cask 'google-drive'
