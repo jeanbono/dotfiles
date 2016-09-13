@@ -1,6 +1,4 @@
 "*":
-  "MavensMate-Atom": {}
-  "atom-terminal": {}
   core:
     disabledPackages: [
       "background-tips"
@@ -32,6 +30,7 @@
       "text.plain"
       "source.gfm"
       "text.git-commit"
+      "text.html.basic"
     ]
   welcome:
     showOnStartup: false
