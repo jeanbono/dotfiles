@@ -16,6 +16,7 @@
       "vendor"
     ]
     projectHome: "/Users/pierre/Code"
+    telemetryConsent: "limited"
   editor:
     fontFamily: "Menlo"
     fontSize: 15
