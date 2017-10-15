@@ -1,5 +1,17 @@
 "*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "e5223546-8140-41aa-9b2a-73c11970b7b4"
+    ruby:
+      rubocop_path: "/usr/local/var/rbenv/versions/2.4.1/bin/rubocop"
+  "atom-package-deps":
+    ignored: []
+  "autocomplete-elixir":
+    elixirPath: "/usr/local/bin/elixir"
+  "autocomplete-ruby":
+    rsensePath: "/usr/local/var/rbenv/shims/rsense"
   core:
+    closeDeletedFileTabs: true
     disabledPackages: [
       "background-tips"
       "exception-reporting"
@@ -23,9 +35,35 @@
     invisibles: {}
     showIndentGuide: true
     softWrapAtPreferredLineLength: true
-  minimap: {}
+  "file-icons":
+    coloured: false
+  "linter-rubocop":
+    command: "/usr/local/var/rbenv/shims/rubocop"
+  "linter-ruby":
+    rubyExecutablePath: "/usr/local/var/rbenv/shims/ruby"
+  "linter-ui-default":
+    panelHeight: 69
+    showPanel: true
+  minimap:
+    plugins:
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
+      pigments: true
+      pigmentsDecorationsZIndex: 0
+  "platformio-ide-terminal":
+    style:
+      fontFamily: "SF Mono"
+      fontSize: "11"
+      theme: "one-dark"
+    toggles:
+      autoClose: true
   "release-notes":
     viewedVersion: "0.89.0"
+  "rubocop-auto-correct":
+    rubocopCommandPath: "/usr/local/var/rbenv/shims/rubocop"
+  "ruby-test":
+    rspecFileCommand: "rspec --format doc {relative_path}"
+    specFramework: "rspec"
   "spell-check":
     grammars: [
       "text.plain"
@@ -33,5 +71,7 @@
       "text.git-commit"
       "text.html.basic"
     ]
+  "tree-view":
+    hideIgnoredNames: true
   welcome:
     showOnStartup: false
