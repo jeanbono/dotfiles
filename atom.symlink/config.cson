@@ -16,6 +16,8 @@
       "background-tips"
       "exception-reporting"
       "metrics"
+      "react"
+      "linter-rubocop"
     ]
     followSymlinks: false
     hideGitIgnoredFiles: true
@@ -28,10 +30,9 @@
       "vendor"
     ]
     projectHome: "/Users/pierre/Code"
-    telemetryConsent: "limited"
+    telemetryConsent: "no"
   editor:
     fontFamily: "Menlo"
-    fontSize: 15
     invisibles: {}
     showIndentGuide: true
     softWrapAtPreferredLineLength: true
@@ -43,6 +44,7 @@
     rubyExecutablePath: "/usr/local/var/rbenv/shims/ruby"
   "linter-ui-default":
     panelHeight: 69
+    showPanel: true
   minimap:
     plugins:
       "highlight-selected": true
@@ -72,5 +74,3 @@
     ]
   "tree-view":
     hideIgnoredNames: true
-  welcome:
-    showOnStartup: false
