@@ -43,7 +43,6 @@
     rubyExecutablePath: "/usr/local/var/rbenv/shims/ruby"
   "linter-ui-default":
     panelHeight: 69
-    showPanel: true
   minimap:
     plugins:
       "highlight-selected": true

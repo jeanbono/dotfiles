@@ -1,4 +1,4 @@
-if test ! $(which spoof)
+if test ! $(which nvm)
 then
-  sudo npm install spoof -g
+  git clone https://github.com/creationix/nvm.git ~/.nvm
 fi
