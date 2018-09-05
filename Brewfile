@@ -1,6 +1,7 @@
 cask_args appdir: '/Applications'
 
 tap 'homebrew/bundle'
+tap 'caskroom/versions'
 
 brew 'zsh'
 brew 'ack'
@@ -22,6 +23,8 @@ brew 'watchman'
 brew 'postgresql'
 #brew 'docker'
 #brew 'docker-machine'
+brew 'watch'
+brew 'jq'
 
 cask 'rubymine'
 cask 'intellij-idea'
