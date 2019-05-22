@@ -1,5 +1,0 @@
-'atom-text-editor':
-  'cmd-alt-l': 'editor:auto-indent'
-  
-'atom-text-editor:not([mini])':
-  'alt-s': 'sort-lines:sort'

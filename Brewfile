@@ -28,7 +28,7 @@ brew 'jq'
 
 cask 'rubymine'
 cask 'intellij-idea'
-cask 'atom'
+cask 'visual-studio-code'
 cask 'google-chrome'
 cask 'google-drive-file-stream'
 cask 'java'
