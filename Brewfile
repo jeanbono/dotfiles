@@ -23,6 +23,7 @@ brew 'watchman'
 brew 'watch'
 brew 'jq'
 
+cask '1password'
 cask 'docker'
 cask 'rubymine'
 cask 'intellij-idea'

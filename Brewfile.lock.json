@@ -400,6 +400,15 @@
             "appdir": "/Applications"
           }
         }
+      },
+      "1password": {
+        "version": "7.5",
+        "options": {
+          "full_name": "1password",
+          "args": {
+            "appdir": "/Applications"
+          }
+        }
       }
     }
   },
