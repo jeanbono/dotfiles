@@ -502,6 +502,15 @@
             "appdir": "/Applications"
           }
         }
+      },
+      "intellij-idea-ce": {
+        "version": "2020.3.1,203.6682.168",
+        "options": {
+          "full_name": "intellij-idea-ce",
+          "args": {
+            "appdir": "/Applications"
+          }
+        }
       }
     }
   },

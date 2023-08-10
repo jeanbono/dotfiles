@@ -1,0 +1,7 @@
+#!/usr/bin/osascript
+
+set server to do shell script "echo $(nordvpn-server-find).tcp"
+tell application "Viscosity"
+    connect server
+end tell
+server
