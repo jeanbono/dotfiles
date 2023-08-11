@@ -845,6 +845,15 @@
             "appdir": "/Applications"
           }
         }
+      },
+      "postman": {
+        "version": "10.17.0",
+        "options": {
+          "full_name": "postman",
+          "args": {
+            "appdir": "/Applications"
+          }
+        }
       }
     }
   },
