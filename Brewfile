@@ -23,6 +23,7 @@ brew 'jq'
 brew 'sdkman-cli'
 
 cask '1password'
+cask '1password-cli'
 cask 'docker'
 cask 'intellij-idea'
 cask 'visual-studio-code'
