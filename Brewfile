@@ -20,6 +20,7 @@ brew 'wget'
 brew 'watchman'
 brew 'watch'
 brew 'jq'
+brew 'sdkman-cli'
 
 cask '1password'
 cask 'docker'
