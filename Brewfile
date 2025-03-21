@@ -20,6 +20,7 @@ brew 'jq'
 brew 'sdkman-cli'
 brew 'nvm'
 brew 'grc'
+brew 'jj'
 
 cask '1password'
 cask '1password-cli'
