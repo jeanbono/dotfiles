@@ -21,6 +21,7 @@ brew 'sdkman-cli'
 brew 'n'
 brew 'grc'
 brew 'jj'
+brew 'rustup'
 
 cask '1password'
 cask '1password-cli'
