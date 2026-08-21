@@ -2,7 +2,6 @@ cask_args appdir: '/Applications'
 
 tap 'homebrew/bundle'
 tap 'sdkman/tap'
-tap 'protonpass/tap'
 
 brew 'zsh'
 brew 'neovim'
@@ -24,7 +23,6 @@ brew 'n'
 brew 'grc'
 brew 'jj'
 brew 'rustup'
-brew 'pass-cli'
 
 cask 'docker-desktop'
 cask 'intellij-idea'

@@ -1,1 +1,1 @@
-export SSH_AUTH_SOCK=~/.ssh/proton-pass-agent.sock
+export SSH_AUTH_SOCK=~/.ssh/proton-pass-ssh-agent.sock
