@@ -33,3 +33,11 @@
         default = simple
 [http]
 	sslVerify = true
+[gpg]
+	format = ssh
+[gpg "ssh"]
+	allowedSignersFile = ~/.config/git/allowed_signers
+[user]
+	signingKey = key::ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKg9gmxgKvtgr3+UTVn5n/32QqW+8c+ueRxyN3hqKVWs
+[commit]
+	gpgsign = true
